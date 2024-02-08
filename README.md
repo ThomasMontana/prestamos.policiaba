@@ -1,2 +1,2 @@
 # prestamos.policiaba
-https://prestamosarticulosba.000webhostapp.com/articulos.html
+https://prestamosarticulosba.000webhostapp.com/index.html
